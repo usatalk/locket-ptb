@@ -1,10 +1,5 @@
 // ==================================================================
-//  LOCKET PHOTOBOOTH - GOI CUA RIENG BAN
-//  Script Shadowrocket (http-response) viet moi hoan toan:
-//  - Catalog chi gom 3 khung do chinh ban cung cap, khong lay cua ai.
-//  - Anh khung nam tren tai khoan chua cua ban (o duoi).
-//  - Ngoai 2 khoa catalog nay, moi cau hinh khac cua server
-//    deu duoc giu nguyen, khong sua.
+//  LOCKET PHOTOBOOTH - GOI CUA RIENG BAN - NCA
 // ==================================================================
 
 // DIA CHI CHUA ANH CUA BAN - sua dong nay thanh dia chi cua ban:
