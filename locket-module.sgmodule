@@ -1,0 +1,8 @@
+#!name=Locket Booth (cua rieng ban)
+#!desc=Bo photobooth (3 khung cua ban) + 10 filter AI. Script va anh deu nam tren GitHub cua ban.
+
+[Script]
+Locket Booth Rieng = type=http-response, pattern=^https:\/\/firebaseremoteconfig\.googleapis\.com\/.*$, requires-body=true, script-path=https://cdn.jsdelivr.net/gh/TEN-CUA-BAN/locket-frames@main/locket-cua-rieng-ban.js
+
+[MITM]
+hostname = %APPEND% firebaseremoteconfig.googleapis.com
